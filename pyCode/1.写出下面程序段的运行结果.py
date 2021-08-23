@@ -8,3 +8,7 @@ else:
 
 print(y - x)
 print(x - y)
+
+print(eval("%o", 30))
+
+print(exec(dir))
